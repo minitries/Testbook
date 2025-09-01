@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Private Investigations"
+  author: "Mirjam Hüpeden"
+  date: "9/1/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - abstract.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+#  pdf:
+#    documentclass: scrreprt
+
+
+

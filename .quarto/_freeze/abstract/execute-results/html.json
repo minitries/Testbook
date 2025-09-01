@@ -1,0 +1,17 @@
+{
+  "hash": "9e0b3b39d4f87d94ab27b44c7d2beec5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Abstract\n\nIn summary, this book has no content whatsoever.\n\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n\n\n\n## subheading1\n### subsubheading1.1\n####subsubsubheading1.1.1\n## subheading2",
+    "supporting": [
+      "Abstract_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
